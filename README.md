@@ -13,7 +13,7 @@ To convert in .EXE file : ```pyinstaller --noconsole main.py```
 Now, you can add a key in the register key for do a program on startup with PowerShell : ```New-ItemProperty -Path "HKCU:\Software\Microsoft\Windows\CurrentVersion\Run" -Name "main.exe" -Value "C:\path\to\the\main.exe" -PropertyType String -Force```
 
 
-🛠 If you need help, you can contact me on [X (Twiter)](https://x.com.Nudryk) or on Discord : Cliik
+🛠 If you need help, you can contact me on [X (Twiter)](https://x.com.Nudryk) or on Discord : Cliik93200
 
 
 
